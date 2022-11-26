@@ -1,5 +1,8 @@
 <!-- statistic badges -->
-![](https://komarev.com/ghpvc/?username=vliam0206&color=red) &nbsp;&nbsp; <img alt="GitHub followers" src="https://img.shields.io/github/followers/vliam0206?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vliam0206?style=social">  
+![](https://komarev.com/ghpvc/?username=vliam0206&color=red) 
+<!--
+&nbsp;&nbsp; <img alt="GitHub followers" src="https://img.shields.io/github/followers/vliam0206?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vliam0206?style=social">  
+-->
 
 <!-- welcome banner -->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=4000&pause=100&color=F74D4D&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+vliam.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
@@ -7,7 +10,7 @@
 ## 🖐About me
 - 🎓 I'm currently the 3rd year student at **FPT University - Ho Chi Minh City Campus**
 
-<img src="https://thumbs.gfycat.com/DeficientIdealisticIndigowingedparrot-size_restricted.gif" width="400" align="right"/>
+<img src="https://thumbs.gfycat.com/DeficientIdealisticIndigowingedparrot-size_restricted.gif" width="350" align="right"/>
 
 - 💻 My major is **Software Engineering**
 

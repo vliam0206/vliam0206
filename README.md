@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=vliam0206&color=red)
 <!--
 **vliam0206/vliam0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

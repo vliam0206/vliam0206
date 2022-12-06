@@ -16,11 +16,11 @@
 
 - 🏅 My [cerificates and awards]()
 
-- 🔭 I’m currently working on [CurrentlyProject](currently-url)
+<!-- - 🔭 I’m currently working on [CurrentlyProject](currently-url)-->
 
 - 🌱 I’m currently learning **Springboot, ASP.NET, JavaScript, Unity**
 
-- 👯 I’m looking to collaborate on [CollaborateProject](collaborate-url)
+<!-- - 👯 I’m looking to collaborate on [CollaborateProject](collaborate-url) -->
 
 - 💬 Ask me about **Java, C# (.NET), HTML, CSS**
 

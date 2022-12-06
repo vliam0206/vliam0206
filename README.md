@@ -14,7 +14,7 @@
 
 - 💻 My major is **Software Engineering**
 
-- 🏅 My [cerificates and awards]()
+- 🏅 My [cerificates and awards](https://github.com/vliam0206/awards-certificates)
 
 <!-- - 🔭 I’m currently working on [CurrentlyProject](currently-url)-->
 

@@ -22,7 +22,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [CollaborateProject](collaborate-url) -->
 
-- 💬 Ask me about **Java, C# (.NET), HTML, CSS**
+- 💬 Ask me about **C# (.NET), GIT, Markdown, HTML, CSS**
 
 - 📫 How to reach me **v.trclam@gmail.com**
 

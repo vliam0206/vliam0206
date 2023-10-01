@@ -10,7 +10,7 @@
 ## 🖐About me
 - 🎓 I'm currently the 3rd year student at **FPT University - Ho Chi Minh City Campus**
 
-<img src="https://thumbs.gfycat.com/DeficientIdealisticIndigowingedparrot-size_restricted.gif" width="350" align="right"/>
+<img src="https://68.media.tumblr.com/cefc399e1e0e8f58834b1a468a595f73/tumblr_o3j4f6mFVi1uadz9uo1_1280.gif" width="350" align="right"/>
 
 - 💻 My major is **Software Engineering**
 

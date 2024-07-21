@@ -8,21 +8,17 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=4000&pause=100&color=F74D4D&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+vliam.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## 🖐About me
-- 🎓 I'm currently the 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- 🎓 Bachelor of Software Engineering at **FPT University - Ho Chi Minh City Campus**
 
 <img src="https://68.media.tumblr.com/cefc399e1e0e8f58834b1a468a595f73/tumblr_o3j4f6mFVi1uadz9uo1_1280.gif" width="350" align="right"/>
-
-- 💻 My major is **Software Engineering**
 
 - 🏅 My [cerificates and awards](https://github.com/vliam0206/awards-certificates)
 
 <!-- - 🔭 I’m currently working on [CurrentlyProject](currently-url)-->
 
-- 🌱 I’m currently learning **Springboot, ASP.NET, JavaScript, Unity**
-
 <!-- - 👯 I’m looking to collaborate on [CollaborateProject](collaborate-url) -->
 
-- 💬 Ask me about **C# (.NET), GIT, Markdown, HTML, CSS**
+- 💬 Ask me about **C# (ASP.NET Core), GIT, SQL Server, HTML, CSS**
 
 - 📫 How to reach me **v.trclam@gmail.com**
 

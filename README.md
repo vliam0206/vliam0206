@@ -5,7 +5,7 @@
 -->
 
 <!-- welcome banner -->
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=4000&pause=100&color=F74D4D&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+vliam.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=4000&pause=100&color=F74D4D&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+vliam.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg) -->
 
 ## 🖐About me
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vliam0206&show_icons=true&locale=en&layout=compact" alt="vliam0206" /></p> -->

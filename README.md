@@ -43,6 +43,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=vliam0206&show_icons=true&locale=en" alt="vliam0206" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vliam0206&" alt="vliam0206" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=vliam0206&show_icons=true&locale=en" alt="vliam0206" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vliam0206&" alt="vliam0206" /></p> -->
 

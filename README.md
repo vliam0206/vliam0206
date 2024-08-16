@@ -8,11 +8,11 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=4000&pause=100&color=F74D4D&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+vliam.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## 🖐About me
-<p><img align="right" src="https://68.media.tumblr.com/cefc399e1e0e8f58834b1a468a595f73/tumblr_o3j4f6mFVi1uadz9uo1_1280.gif" width="300"/></p>
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vliam0206&show_icons=true&locale=en&layout=compact" alt="vliam0206" /></p> -->
 
+<p><img align="right" src="https://68.media.tumblr.com/cefc399e1e0e8f58834b1a468a595f73/tumblr_o3j4f6mFVi1uadz9uo1_1280.gif" width="350"/></p>
 
-- 🎓 Bachelor of Software Engineering at **FPT University - Ho Chi Minh City Campus**
+- 🎓 Bachelor of Software Engineering at **FPT University**
 
 - 🏅 My [cerificates and awards](https://github.com/vliam0206/awards-certificates)
 
@@ -23,6 +23,7 @@
 - 🪪 My [Linkedln Profile](https://www.linkedin.com/in/lamvo0602/?locale=vi_VN)
 
 - 📫 How to reach me **v.trclam@gmail.com**
+</br>
 
 ## Languages and Tools
 <p align="left">   
@@ -42,6 +43,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vliam0206&" alt="vliam0206" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=vliam0206&show_icons=true&locale=en" alt="vliam0206" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vliam0206&" alt="vliam0206" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vliam0206&show_icons=true&locale=en" alt="vliam0206" /></p>

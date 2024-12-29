@@ -26,8 +26,7 @@
 - 🪪 My [Linkedln Profile](https://www.linkedin.com/in/lamvo0602/?locale=vi_VN).
 
 - 📫 How to reach me **[v.trclam@gmail.com](mailto:v.trclam@gmail.com)**
-</br>
-
+  
 ## Languages and Tools
 <p align="left">    
     <a name="c-sharp" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" text-decoration="none">
